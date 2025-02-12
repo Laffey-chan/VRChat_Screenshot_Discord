@@ -1,4 +1,7 @@
 # VSD(VRChat_Screenshot_Discord）
+
+Pls go to the original creator of this project and give them a star and support them and use their version of the project. This is just a fork of the original project.
+
 ---
 日本語
 ---
